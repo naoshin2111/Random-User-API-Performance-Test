@@ -20,11 +20,8 @@ https://random-data-api.com/api/v2/users
 - from jmeter open the file from the bin and hit the run button
 
   ## LOAD Test
- ![Load Test](https://github.com/naoshin2111/Random-User-API-Performance-Test/assets/70252193/b223228a-4fc2-4520-adf9-e660594457da)
-
+  ![Load Test](https://github.com/naoshin2111/Random-User-API-Performance-Test/assets/70252193/b223228a-4fc2-4520-adf9-e660594457da)
   ## STRESS Test
-  
+  ![Stress Test](https://github.com/naoshin2111/Random-User-API-Performance-Test/assets/70252193/b0acc456-339e-4cea-8ecd-1acfca55d9b8)
   ## Reports
   ![Reports](https://github.com/naoshin2111/Random-User-API-Performance-Test/assets/70252193/ab3d0367-c9b9-40ca-8777-9228265d7c66)
-
-
